@@ -52,7 +52,7 @@ Contributions to this repository are highly encouraged! If you have any code sni
 
 **License**
 
-The code in this repository is provided under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license.
+The code in this repository is provided under the GNU General Public License v3.0 (see LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
 
 
 
