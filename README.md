@@ -10,21 +10,34 @@ Digital Elevation Models provide valuable information about the Earth's surface 
 
 **Repository Structure**
 
-This repository is organized into several directories, each focusing on a specific aspect of DEM analysis. Here's a brief overview of the directory structure:
+This repository currently contains only this README and the LICENSE file — no code
+directories exist yet. The planned layout below describes the topics the
+collection is intended to cover; the directories will appear as code is added.
+Contributions adding the first snippets for any of these topics are welcome.
 
-01-data-preparation: This directory contains code snippets and scripts related to data ingestion, preprocessing, and preparation of DEM datasets. It includes tasks such as data fusion, resampling, and data format conversions.
+01-data-preparation: Code snippets and scripts related to data ingestion,
+preprocessing, and preparation of DEM datasets. It includes tasks such as data
+fusion, resampling, and data format conversions.
 
-02-visualization: Here, you'll find code examples for visualizing DEMs and derived products. This includes techniques for generating hillshades, contour plots, slope maps, and 3D visualizations.
+02-visualization: Code examples for visualizing DEMs and derived products. This
+includes techniques for generating hillshades, contour plots, slope maps, and 3D
+visualizations.
 
-03-analysis: In this directory, you'll discover code snippets for conducting various analyses on DEM data. It covers tasks like terrain classification, aspect calculation, watershed delineation, and viewshed analysis.
+03-analysis: Code snippets for conducting various analyses on DEM data. It covers
+tasks like terrain classification, aspect calculation, watershed delineation, and
+viewshed analysis.
 
-04-modelling: If you're interested in modeling terrain-related phenomena, this directory is for you. It includes code examples for hydrological modeling, flood risk assessment, solar radiation modeling, and other related applications.
+04-modelling: Code examples for modeling terrain-related phenomena, including
+hydrological modeling, flood risk assessment, solar radiation modeling, and other
+related applications.
 
-05-change-detection: Here, you'll find code snippets for detecting changes in the Earth's surface using DEM differencing techniques. It covers tasks like measuring elevation changes, identifying landforms, and monitoring erosion or deposition.
+05-change-detection: Code snippets for detecting changes in the Earth's surface
+using DEM differencing techniques. It covers tasks like measuring elevation
+changes, identifying landforms, and monitoring erosion or deposition.
 
-06-applications: This directory showcases complete projects and applications built using DEM data and Earth Engine. It includes examples such as landslide susceptibility mapping, landform analysis, and glacier monitoring.
-
-Feel free to explore each directory, find the code that interests you, and adapt it to your specific needs. Each directory contains its own README file with more detailed information about the code and examples provided.
+06-applications: Complete projects and applications built using DEM data and Earth
+Engine, such as landslide susceptibility mapping, landform analysis, and glacier
+monitoring.
 
 
 
@@ -38,9 +51,9 @@ Create a Google Earth Engine account and obtain the necessary credentials to acc
 
 Clone or download this repository to your local machine.
 
-Navigate to the directory containing the code you're interested in.
-
-Follow the instructions provided in the README file of that directory to run the code and understand its usage.
+Note: no code directories exist in the repository yet, so there is nothing to run
+at the moment — see **Repository Structure** above for the planned layout, and
+**Contributions** below if you would like to add the first snippets.
 
 
 
@@ -52,10 +65,11 @@ Contributions to this repository are highly encouraged! If you have any code sni
 
 **License**
 
-The code in this repository is provided under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license.
+The code in this repository is provided under the GNU General Public License v3.0 (see LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
 
 
 
 **Contact**
 
 If you have any questions, suggestions, or feedback, please don't hesitate to contact me. I would be happy to assist you and improve this repository further.
+
